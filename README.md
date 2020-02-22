@@ -3,3 +3,5 @@ This project is an analysis of datasets obtained regarding previously occurred a
 
 Problem Statement: 
 “To analyse the given accident data from a particular region and to obtain inferences regarding the influences and contributions of several attributes to the severity of an accident and hence provide specific measures in order to reduce the rate of these accidents”  
+
+co-creators: prash29, vcsheel
